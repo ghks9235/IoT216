@@ -1,0 +1,6 @@
+C:\Users\KOSTA\source\repos\DBManager\MyClassLibrary\obj\Debug\netcoreapp3.1\MyClassLibrary.UserControl1.resources
+C:\Users\KOSTA\source\repos\DBManager\MyClassLibrary\obj\Debug\netcoreapp3.1\MyClassLibrary.csproj.GenerateResource.cache
+C:\Users\KOSTA\source\repos\DBManager\MyClassLibrary\obj\Debug\netcoreapp3.1\MyClassLibrary.AssemblyInfoInputs.cache
+C:\Users\KOSTA\source\repos\DBManager\MyClassLibrary\obj\Debug\netcoreapp3.1\MyClassLibrary.AssemblyInfo.cs
+C:\Users\KOSTA\source\repos\DBManager\MyClassLibrary\obj\Debug\netcoreapp3.1\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\source\repos\DBManager\MyClassLibrary\obj\Debug\netcoreapp3.1\MyClassLibrary.csprojAssemblyReference.cache

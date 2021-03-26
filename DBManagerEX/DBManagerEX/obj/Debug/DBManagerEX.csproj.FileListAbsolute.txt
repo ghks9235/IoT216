@@ -1,0 +1,15 @@
+C:\Users\KOSTA\source\repos\DBManagerEX\DBManagerEX\obj\Debug\DBManagerEX.csprojAssemblyReference.cache
+C:\Users\KOSTA\source\repos\DBManagerEX\DBManagerEX\obj\Debug\DBManagerEX.Form1.resources
+C:\Users\KOSTA\source\repos\DBManagerEX\DBManagerEX\obj\Debug\DBManagerEX.Properties.Resources.resources
+C:\Users\KOSTA\source\repos\DBManagerEX\DBManagerEX\obj\Debug\DBManagerEX.csproj.GenerateResource.cache
+C:\Users\KOSTA\source\repos\DBManagerEX\DBManagerEX\obj\Debug\DBManagerEX.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\source\repos\JH\DBManagerEX\DBManagerEX\bin\Debug\DBManagerEX.exe.config
+C:\Users\KOSTA\source\repos\JH\DBManagerEX\DBManagerEX\bin\Debug\DBManagerEX.exe
+C:\Users\KOSTA\source\repos\JH\DBManagerEX\DBManagerEX\bin\Debug\DBManagerEX.pdb
+C:\Users\KOSTA\source\repos\JH\DBManagerEX\DBManagerEX\obj\Debug\DBManagerEX.csprojAssemblyReference.cache
+C:\Users\KOSTA\source\repos\JH\DBManagerEX\DBManagerEX\obj\Debug\DBManagerEX.Form1.resources
+C:\Users\KOSTA\source\repos\JH\DBManagerEX\DBManagerEX\obj\Debug\DBManagerEX.Properties.Resources.resources
+C:\Users\KOSTA\source\repos\JH\DBManagerEX\DBManagerEX\obj\Debug\DBManagerEX.csproj.GenerateResource.cache
+C:\Users\KOSTA\source\repos\JH\DBManagerEX\DBManagerEX\obj\Debug\DBManagerEX.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\source\repos\JH\DBManagerEX\DBManagerEX\obj\Debug\DBManagerEX.exe
+C:\Users\KOSTA\source\repos\JH\DBManagerEX\DBManagerEX\obj\Debug\DBManagerEX.pdb
